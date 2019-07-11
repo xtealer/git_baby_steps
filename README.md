@@ -2,8 +2,8 @@
 Basic guide for new git users on spanish! / ¡Guia basica para nuevos usuarios de git en Español!
 @xtealer / @Xtealr on Twitter
 
-##Instalar Git segun plataforma
-------------
+## Instalar Git segun plataforma
+--------------
 ### Linux:
 Dependiendo de su distro Linux, para basados en Debian que utilicen apt/apt-get usar `~$ sudo apt-get install git`, reemplazar **apt-get** por el instalador de paquetes correspondiente a su distribucion.
 
