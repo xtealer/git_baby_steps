@@ -9,5 +9,5 @@
 
 - **Descargar interprete python 3.7.2:** https://www.python.org/downloads/
 
-- **snake-game: ** https://github.com/XTEALER/snake-py
+- **snake-game:** https://github.com/XTEALER/snake-py
 
