@@ -6,9 +6,9 @@ Basic guide for new git users on spanish! / ¡Guia basica para nuevos usuarios d
 
 ### @instagram ###
 
-- @alienroom
+- [@alienroom](https://instagram.com/alienroom)
 
-- @itsourcepa
+- [@itsourcepa](https://instagram.com/itsourcepa)
 
 ### telegram ###
 
