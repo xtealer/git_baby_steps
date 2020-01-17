@@ -14,4 +14,4 @@ Basic guide for new git users on spanish! / ¡Guia basica para nuevos usuarios d
 
 - [t.me/alienroom](t.me/alienroom)
 
-- [t.me/javscriptx](t.me/javscriptx)
+- [t.me/javascriptx](t.me/javascriptx)
