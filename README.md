@@ -12,6 +12,6 @@ Basic guide for new git users on spanish! / ¡Guia basica para nuevos usuarios d
 
 ### telegram ###
 
-- [t.me/alienroom](t.me/alienroom)
+- [t.me/alienroom](https://t.me/alienroom)
 
-- [t.me/javascriptx](t.me/javascriptx)
+- [t.me/javascriptx](https://t.me/javascriptx)
